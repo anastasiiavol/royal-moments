@@ -1,0 +1,1468 @@
+Uri: https://royal-moments.com.ua/
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/favicon.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\favicon.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/css/uikit.css
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\css\uikit.css
+Content Type: text/css
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/css/slidenav.min.css
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\css\slidenav.min.css
+Content Type: text/css
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/css/sticky.min.css
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\css\sticky.min.css
+Content Type: text/css
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/css/custom.css
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\css\custom.css
+Content Type: text/css
+
+Uri: https://royal-moments.com.ua/images/revs/prev2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev6.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev6.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev7.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev7.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev8.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev8.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev9.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev9.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev10.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev10.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev11.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev11.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev12.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev12.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev13.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev13.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev14.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev14.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev15.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev15.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev16.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev16.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev17.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev17.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev18.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev18.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev19.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev19.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/images/revs/prev20.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\images\revs\prev20.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic15-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic15-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic1-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic1-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic2-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic2-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic3-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic4-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic4-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic5-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic5-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic6-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic6-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic7-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic7-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic8-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic8-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic9-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic9-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/pic10-min.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\pic10-min.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal17/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal17\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal17/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal17\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal17/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal17\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal17/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal17\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal17/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal17\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal18/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal18\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal18/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal18\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal18/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal18\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal18/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal18\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal18/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal18\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal19/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal19\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal19/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal19\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal19/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal19\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal19/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal19\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal19/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal19\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal19/6.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal19\6.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal20/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal20\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal20/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal20\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal20/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal20\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal20/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal20\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal20/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal20\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal21/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal21\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal21/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal21\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal21/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal21\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal21/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal21\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal22/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal22\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal22/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal22\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal22/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal22\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal22/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal22\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal23/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal23\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal23/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal23\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal23/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal23\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal23/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal23\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal23/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal23\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal24/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal24\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal24/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal24\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal24/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal24\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal24/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal24\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal24/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal24\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal24/6.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal24\6.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal24/7.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal24\7.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal24/8.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal24\8.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal25/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal25\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal25/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal25\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal25/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal25\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal25/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal25\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal25/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal25\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal25/6.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal25\6.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal26/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal26\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal26/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal26\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal26/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal26\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal26/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal26\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal26/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal26\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal27/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal27\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal27/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal27\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal27/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal27\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal27/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal27\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal27/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal27\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal28/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal28\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal28/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal28\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal28/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal28\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal28/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal28\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal29/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal29\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal29/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal29\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal29/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal29\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal29/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal29\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal29/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal29\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal29/6.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal29\6.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal30/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal30\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal30/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal30\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal30/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal30\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal30/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal30\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal30/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal30\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal30/6.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal30\6.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal30/7.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal30\7.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal31/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal31\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal31/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal31\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal31/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal31\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal31/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal31\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal31/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal31\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal31/6.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal31\6.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal31/7.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal31\7.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal31/8.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal31\8.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal32/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal32\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal32/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal32\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal32/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal32\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal32/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal32\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal32/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal32\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal32/6.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal32\6.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal33/1.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal33\1.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal33/2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal33\2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal33/3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal33\3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal33/4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal33\4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal33/5.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal33\5.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/vb.svg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\vb.svg
+Content Type: image/svg+xml
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/wp.svg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\wp.svg
+Content Type: image/svg+xml
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/teleg.svg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\teleg.svg
+Content Type: image/svg+xml
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/insta.svg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\insta.svg
+Content Type: image/svg+xml
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/fb.svg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per1.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per1.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per2.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per2.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per3.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per3.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per4.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per4.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per5.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per5.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per6.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per6.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per7.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per7.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per8.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per8.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per9.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per9.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per10.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per10.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per11.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per11.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per12.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per12.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per13.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per13.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per14.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per14.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per15.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per15.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per16.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per16.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/persons/per17.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\persons\per17.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/progs/temparty.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\progs\temparty.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/progs/kvest.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\progs\kvest.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/progs/pro3.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\progs\pro3.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dir.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dir.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr3.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr3.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr1.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr1.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr2.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr2.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr4.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr4.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr5.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr5.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr6.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr6.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr7.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr7.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr8.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr8.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr9.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr9.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr10.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr10.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr11.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr11.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr12.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr12.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr13.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr13.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr14.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr14.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr15.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr15.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr16.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr16.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr17.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr17.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr18.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr18.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr19.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr19.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr20.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr20.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/mister2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\mister2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr156.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr156.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/trash2.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\trash2.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr21.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr21.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr159.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr159.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/sprogs/pr160.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\sprogs\pr160.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl1.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl1.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl2.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl2.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl3.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl3.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl20.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl20.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl4.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl4.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl5.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl5.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl6.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl6.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl7.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl7.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl8.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl8.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl9.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl9.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl10.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl10.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl11.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl11.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl22.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl22.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl13.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl13.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl14.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl14.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl15.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl15.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl16.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl16.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl17.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl17.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl18.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl18.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/dopuslugi/usl19.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\dopuslugi\usl19.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal1/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal1\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal2/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal2\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal4/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal4\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal5/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal5\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal6/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal6\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal7/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal7\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal8/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal8\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal9/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal9\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal10/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal10\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal11/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal11\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal12/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal12\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal13/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal13\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal14/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal14\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal15/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal15\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gal16/prev.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gal16\prev.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/lev2.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\lev2.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/nast4.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\nast4.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/kalendar/stnikolay.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\kalendar\stnikolay.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/kalendar/new.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\kalendar\new.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/kalendar/h.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\kalendar\h.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/kalendar/img4.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\kalendar\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/kalendar/babyboss.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\kalendar\babyboss.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/gmail.svg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\gmail.svg
+Content Type: image/svg+xml
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/js/uikit.min.js
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\js\uikit.min.js
+Content Type: application/x-javascript
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/js/lightbox.min.js
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\js\lightbox.min.js
+Content Type: application/x-javascript
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/js/sticky.min.js
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\js\sticky.min.js
+Content Type: application/x-javascript
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/tool/jquery-popover-0.0.3.js
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\tool\jquery-popover-0.0.3.js
+Content Type: application/x-javascript
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/js/wow.min.js
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/slick/slick.js
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\slick\slick.js
+Content Type: application/x-javascript
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/fonts/mainfonts/LifehackBasic.otf
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\fonts\mainfonts\LifehackBasic.otf
+Content Type: 
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/css/play-s.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\css\play-s.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/cancel.svg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\cancel.svg
+Content Type: image/svg+xml
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/logo_rm.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\logo_rm.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/caret.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\caret.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/girl-main-child-desctop2.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\girl-main-child-desctop2.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/confeti-1.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\confeti-1.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/confeti-2.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\confeti-2.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/confeti-3.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\confeti-3.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/rostovie.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\rostovie.jpg
+Content Type: image/jpeg
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/play.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\play.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/ar.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\ar.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/al.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\al.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/information.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\information.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/icons/ic1.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\icons\ic1.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/icons/ic2.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\icons\ic2.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/icons/ic3.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\icons\ic3.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/icons/ic4.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\icons\ic4.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/icons/ic5.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\icons\ic5.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/icons/ic6.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\icons\ic6.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/icons/ic9.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\icons\ic9.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/icons/ic8.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\icons\ic8.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/jora.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\jora.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/phone.svg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/loading.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\loading.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/girl-main-child.png
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\girl-main-child.png
+Content Type: image/png
+
+Uri: https://royal-moments.com.ua/templates/royal_moments/img/highdoll.jpg
+File Name: c:\Downloaded Web Sites\royal-moments.com.ua\templates\royal_moments\img\highdoll.jpg
+Content Type: image/jpeg
+
